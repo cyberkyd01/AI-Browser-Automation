@@ -504,3 +504,11 @@ Report bugs and request features through [Issues](https://github.com/cyberkyd01/
 ## Licence
 
 MIT. See `LICENSE`. The bundled pdf.js is Apache-2.0; see `vendor/pdfjs/LICENSE`.
+
+---
+
+## ⭐ Support
+
+Please give stars and if possible Buy me a coffee (USDT-TRC20) - `TA216k3WgWTrKnUKxZrSDNGzSJj3eHtEcH`
+
+Telegram: [@Cyberkyd](https://t.me/Cyberkyd)
